@@ -1,0 +1,22 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+
+h1{
+  font-weight: bold;
+}
+
+
+
+#question {
+  border-left: 3px solid grey;
+  margin-left: 15px;
+  font-weight: bold;
+}
+
+
+#answer {
+  border-left: 3px solid grey;
+  margin-left: 15px;
+}
